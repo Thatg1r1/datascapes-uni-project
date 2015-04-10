@@ -1,0 +1,44 @@
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN>
+<html>
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>CSS-test</title>
+<Link rel="stylesheet" href="styles.css">
+</head>
+<body class="entirepage">
+
+
+<div class="hometitle"><h1>Search</h1></div>
+
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+
+<script>
+  (function() {
+    var cx = '016243689149679565933:xu_dlzbzzng';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+
+
+<footer>
+<p><small>&copy; Greenwich Archive 2015. All rights reserved. For further information go to our <a href="contact.html">Contact page</a></small></p> 
+</footer>
+
+
+
+
+</html>
