@@ -1,0 +1,19 @@
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UFT-8">
+<title>CSS-test</title>
+<Link rel="stylesheet" href="styles.css">
+</head>
+<body class="Fancypage">
+
+<p><center><div class="fancytitle">GREENWICH ARCHIVE</div></center></p>
+
+<div class="homepageimages">
+<a href="about.html"><img src="Images of Greenwich town/about-nav.jpg" alt="description" class="baffled"></a>
+<a href="Collections.html"><img src="Images of Greenwich town/Cutty9-nav.jpg" alt="description" class="baffled"></a>
+<a href="Search.html"><img src="Images of Greenwich town/search-nav.jpg" alt="description" class="baffled"></a>
+</div>
+
+</body>
+</html>
