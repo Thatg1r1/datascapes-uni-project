@@ -1,0 +1,57 @@
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN>
+<html>
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>CSS-test</title>
+<Link rel="stylesheet" href="styles.css">
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "724c0908-5847-44f0-96f3-fbdb85c9fa82", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+</head>
+<body class="entirepage">
+
+
+
+<div class="hometitle"><h1>Contact</h1></div>
+
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+
+<img class="post" src="Images of Greenwich Town/postcardfinal.jpg" alt="A map of greenwich">
+</div>
+
+
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+<span class='st_pinterest_large' displayText='Pinterest'></span>
+
+
+
+<div class="address">
+<p><i>Old Royal Naval College, 30 Park Row</p>
+<p>London SE10 9LS</p>
+<p>020 8331 9000</p>
+<p><a href="mailto:Ra319@greenwich.ac.uk">Ra319@gre.ac.uk</a></p></i>
+</div>
+
+<div class="farewell">
+<p> Many regards, Amy Robinson</p>
+</div>
+
+
+
+<footer>
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+<p><small>&copy; Greenwich Archive 2015. All rights reserved. For further information go to our <a href="contact.html">Contact page</a></small></p> 
+</footer>
+</html>
