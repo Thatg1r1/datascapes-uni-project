@@ -1,0 +1,55 @@
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UFT-8">
+<title>CSS-test</title>
+<Link rel="stylesheet" href="styles.css">
+</head>
+<body class="entirepage">
+
+<div class="hometitle"> <h1>About</h1></div>
+
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+
+<div class="body2">
+<div class="subheading">"What started as a regular Excel Archive has since been developed into a vibrant user friendly Website, designed to make research easier!"</div>
+
+<div class="work">
+<img src="Images of Greenwich town/Home-image.jpg" alt="An image of the University of Greenwich"></div>
+<p><h4><center> What's it all about?</center></p></h4>
+<div class="para"><p>I have collected and presented exclusively for you, a range of archival material of Greenwich, ranging from as early as 1770 up to the present day.</P>
+<p> On this website you will find my Greenwich Archive organised into appropriate categories to help you find exactly what you're looking for in the most accessable and effortless way.</p>
+<p></div>
+<p><h4><center>The Aim</center></p></h4>
+<div class="para"><p>The Aim of this Website is to demonstrate to the public how Greenwich has adapted with contemporary change. I hope to have created a sense of time travel for tourists, So as they walk around Greenwich they can visualise the area in different historical stages.</p></div>
+<div class="who"><p><h4>Who will benefit from this website?</p></h4></div>
+<div class="para2"><p>Everyone in search of a visual or auditory historical insight can benefit from The Greenwich Archive, but it's especially suitable for Tourists looking to find out about attractions, or for people with personal, educational, historical or geographical projects.</p></div>
+<p><h4><center>The story behind The Greenwich Archive</p></h4></center>
+<div class="para2"><p>I began my project by walking around Greenwich Cutty Sark collecting visual data through photographs and video's. While walking around i found it interesting to see how different parts of Greenwich were more popular than others, tourists seemed to follow each other around, disregarding more rural places such as the Thames Walk. When i first moved to Greenwich i knew about the Cutty Sark but i was unaware of the boroughs history and thought it would be useful for other people to know more about what they saw.</p>
+<p>I collected as many different types of data as i could to accomodate people with different requirements and ensure they leave the website with the knowledge and feeling of what it was like in Greenwich in 1770 and what it's like now.</p>
+<P> By tightly focusing my project around Cutty Sark Greenwich i could accurately research the history of the area and create a sense of mapping a time travel.</p></div>
+<br/>
+<div class="para"><span>
+Go to our <a href="contact.html">Contact page</a> for further information.
+<br/>
+</span>
+</div>
+
+</body> 
+
+<footer>
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="home.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+<div class="aboutcopy"><p><small>&copy; Greenwich Archive 2015. All rights reserved. For further information go to our <a href="contact.html">Contact page</a></small></p></div>
+</footer>
+</div>
+</html>
