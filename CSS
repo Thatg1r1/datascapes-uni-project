@@ -1,0 +1,268 @@
+.hometitle {
+	padding-top: 25px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+color: #2d3539;
+font-weight: bold;
+font-family: Hoefler Text, Georgia, Serif;
+font-size: 1.5em;
+text-align: left;
+ background: rgba(179,220,237,1);
+background: -moz-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 15%, rgba(41,184,229,1) 36%, rgba(0,128,128,1) 71%, rgba(0,128,128,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(15%, rgba(179,220,237,1)), color-stop(36%, rgba(41,184,229,1)), color-stop(71%, rgba(0,128,128,1)), color-stop(100%, rgba(0,128,128,1)));
+background: -webkit-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 15%, rgba(41,184,229,1) 36%, rgba(0,128,128,1) 71%, rgba(0,128,128,1) 100%);
+background: -o-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 15%, rgba(41,184,229,1) 36%, rgba(0,128,128,1) 71%, rgba(0,128,128,1) 100%);
+background: -ms-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 15%, rgba(41,184,229,1) 36%, rgba(0,128,128,1) 71%, rgba(0,128,128,1) 100%);
+background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 15%, rgba(41,184,229,1) 36%, rgba(0,128,128,1) 71%, rgba(0,128,128,1) 100%);
+filter: .Microsoft.gradient( startColorstr='#b3dced', endColorstr='#008080', GradientType=1 );
+} 
+
+
+
+.coll {
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.para { 
+padding-left: 10px;
+
+
+
+}
+
+.para2 { 
+padding-left: 10px;
+padding-right: 9px;
+}
+
+.aboutcopy { 
+padding-bottom: 1px;
+padding-left: 10px;
+} 
+.body2 { 
+/* Fallback for web browsers that doesn't support RGBa */
+background: rgb(41, 166, 166);
+/* RGBa with 0.6 opacity */
+background: rgba(41, 166, 166, 0.7);
+font-family: Goudy Bookletter 1911, sans-serif;
+
+}
+
+.subheading {
+padding-top: 20px;
+text-align: center;
+color: white;
+font-size: 25px;
+font-family:Goudy Bookletter 1911, sans-serif;
+padding-left 10px;
+padding-right: 10px;
+}
+
+.fancypage {
+background: url("fancyback11.png")  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover cover;  
+     }
+	 
+	 
+.subtitle {
+	color: white;
+}
+     
+     
+.fancytitle {
+	font-family: Hoefler Text, Georgia, Serif;
+position: center center;
+	top:50px;
+	padding: 0 0 0 50px;
+	font-size: 10.80em;
+	color: #008080;}
+ 
+h2 {
+	color: purple;
+}
+
+.entirepage {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+	background: url("fancyback11.png")  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover cover; /* remove the background to have it back to original */
+   
+}
+
+.who { 
+padding-left: 100px; 
+}
+
+.work img{
+height: 400px;
+width: 450px; 
+}
+
+p { 
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+text-align: justify;
+ 
+}  
+
+.ok img{
+width: 1000px;
+margin: 0 auto;
+height: 50px;
+width: 50px;
+}
+
+.st_facebook_large {
+position: absolute;
+top: 607px;
+padding-left: 400px;
+}
+
+.st_twitter_large {
+position: absolute; 
+top: 607px;
+padding-left: 480px;
+}
+
+.st_linkedin_large {
+position: absolute; 
+top: 607px;
+padding-left: 560px;
+}
+
+.st_pinterest_large {
+position: absolute; 
+top: 607px;
+padding-left: 640px;
+}
+
+.post {
+float:center center;
+height: 480px;
+width: 800px;
+margin: 10px;
+z-index: 1px;
+} 
+
+.farewell {
+position: absolute;
+padding-left: 525px;
+top: 545px;
+font-size: 18px;
+line-height: 50%;
+}
+
+
+.address {
+position: absolute;
+padding-left: 320px;
+top: 390px;
+font-size: 18px;
+line-height: 50%;
+}
+
+
+ img {    /* do not touch, this is the home page image*/
+float: right;
+height: 200px;
+width: 250px;
+margin: 10px;
+z-index: 2px;
+}
+
+
+nav a:link, nav a:visited {
+    color: White;
+    font-family: cambria, "hoefler text", "liberation serif", times, "Times New Roman", serif;
+    background-color: #008080; /* this changes the colour of the individual tabs */
+    padding: 5px;
+    padding-top: 3px;
+    text-decoration: none;
+    text-transform: uppercase;
+	border-radius: 35px 35px;    
+    border-width: 4px;
+    border-style: solid;
+    border-color: #B3FEFF #B9D9DD #26FFFD; 
+}
+
+a:hover, a:active {
+	text-align: right;
+background-color: #b7deed;
+}
+
+
+
+
+.Text-container img {
+    float:left;
+    margin: 0 0 10px 10px;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.video-wrapper {
+	width: 640px;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	max-width: 100%;
+}
+
+
+#music-player { 
+    padding: 250px;
+    padding-top: 20px;
+}
+
+
+
+
+# footer {
+float:left;
+margin: 0px;
+width: 210px;
+height: auto;
+padding: 1em 0;
+font: 12px Verdana, sans-serif;
+text-align: center;
+}
+
+
+.baffled {
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+	
+}
+
+.homepageimages {
+width: 1000px;
+margin: 0 auto;
+}
+
+
+
+text-decoration: underline;
+}
