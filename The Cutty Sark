@@ -1,0 +1,136 @@
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN>
+<html>
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>CSS-test</title>
+<Link rel="stylesheet" href="styles.css">
+</head>
+<body class="entirepage">
+
+<div class="hometitle"><h1>The Cutty Sark</h1></div>
+
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+
+
+<style type="text/css">
+/* Derived from http://www.devinrolsen.com/pure-css-horizontal-menu, this is a drop menu/ */
+
+#pagebody { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+#pagebody-inner { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+
+#alpha, #beta, #gamma, #delta {
+    display: inline; /* DO NOT EDIT */
+    position: inherit !important; /* DO NOT EDIT */
+    float: left; /* DO NOT EDIT */
+    min-height: 1px; /* DO NOT EDIT */
+}
+
+#centernav {
+  width: 50em; /* if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#dropnav 
+{height:25px; background:#05B8CC;} /* Changes the height and bg color of the main menu */
+
+#dropnav ul
+{margin:0px; padding:0px;} /*don't touch*/
+
+#dropnav ul li
+{display:inline; float:left; list-style:none; margin-left:15px; position:relative; height:25px; width: 250px;} /* only edit the last 2 items - sets the width of the main menu */
+
+#dropnav li a
+{color:#FFF; text-decoration:none;} /* Changes the link color of items on the main menu, text */
+
+#dropnav li a:hover
+{color:#900; text-decoration:none;}/* Changes the hover color of items on the main menu */
+
+#dropnav li ul
+{margin:0px; padding:2px; display:none; position:absolute; left:0px; z-index: 99; top:25px; background-color:#05B8CC;} /* Only edit the last 2 items - set the top margin and background color of the submenus */
+
+#dropnav li:hover ul
+{display:block; width:200px;} /* sets the width of the submenus */
+
+#dropnav li li
+{list-style:none; display:list-item;} /* DO NOT EDIT */
+
+#dropnav li li a
+{color:#fcf9f9; text-decoration:none;} /* Changes the text color of items in the submenu */
+
+#dropnav li li a:hover
+{color:#900; text-decoration:none;} /* Changes the hover color of items in the submenu */
+
+li#main  {padding-top: 0px;} /* Sets the padding of items in the main menu */
+</style>
+
+    <div id="centernav">
+    <div id="dropnav">
+        <ul>
+
+            <li id="main">
+            <a href="#">Location</a>
+                <ul id="subnav">
+                      <li><a href="Greenwich Town.html">Greenwich Town</a></li>
+                      <li><a href="Greenwich Pier.html">Greenwich Pier</a></li>
+                      <li><a href="Greenwich Park.html">Greenwich Park</a></li>
+                      <li><a href="The University.html">Royal Naval College</a></li>
+                      <li><a href="The Cutty Sark.html">The Cutty Sark</a></li>
+                </ul>            
+            </li>
+
+            <li id="main">
+            <a href="#">Date</a>
+                <ul id="subnav">
+                     <li><a href="Date-1770.html">1770</a></li>
+                      <li><a href="Date-1880.html">1880</a></li>
+                      <li><a href="Date-1990.html" >1990</a></li>
+                      <li><a href="Date-2001-2014.html">2001-2015</a></li>
+                </ul>            
+            </li>
+
+            <li id="main">
+            <a href="#">Subject</a>
+
+                <ul id="subnav">
+                      <li><a href="Audio.html">Audio</a></li>
+                      <li><a href="Texture.html">Texture</a></li>
+                      <li><a href="Paintings.html">Paintings & Drawings</a></li>
+                        <li><a href="Video.html">Video</a></li>
+                </ul>            
+            </li>
+
+        </ul>    
+    </div>
+</div>
+
+<p><div class="Text-container">
+<img src="Images of Greenwich Town/cutty.jpg" alt="A painting of the Cutty sark">
+<img src="Images of Greenwich Town/cutty22.jpg" alt="A vintage photograph of the cutty sark">
+<img src="Images of Greenwich Town/cutty3.jpg" alt="An old drawing of the Cutty Sark"></p>
+<p><img src="Images of Greenwich Town/cutty4.jpg" alt="Painting of the cutty sark">
+<img src="Images of Greenwich Town/cutty5.jpg" alt="Sepia tone cutty sark">
+<img src="Images of Greenwich Town/cutty6.jpg" alt="cutty sark"></p>
+<p><img src="Images of Greenwich Town/cutty7.jpg" alt="cutty sark">
+<img src="Images of Greenwich Town/Cutty10.jpg" alt="Painting of the cutty Sark">
+<img src="Images of Greenwich Town/cutty9.jpg" alt="Men in the river"></p>
+
+<footer>
+<p><nav><center>
+<a href="INDEX.html">Home</a>
+<a href="about.html">About</a>
+<a href="Collections.html">Collections</a> 
+<a href="search.html">search</a>
+</nav></center></p>
+<p><small>&copy; Greenwich Archive 2015. All rights reserved. For further information go to our <a href="contact.html">Contact page</a></small></p> 
+</footer>
+
+
+
+
+</html>
